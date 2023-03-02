@@ -1,0 +1,29 @@
+/* CSS komment */
+body p {
+    color: green;
+}
+
+span {
+    color: purple;
+}
+
+#modern {
+         color:cyan
+}
+.golyo {
+    color: black;
+}
+
+body {
+    background-color:blue
+}
+
+p {
+    background-color: greenyellow
+}
+
+body>span {
+    background-color: blueviolet;
+}
+
+

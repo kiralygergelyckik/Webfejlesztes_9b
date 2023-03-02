@@ -1,0 +1,69 @@
+body {
+    background-color: whitesmoke;
+}
+
+#piros {
+    background-color: red;
+    width: 150px;
+    /*height: 300px;*/
+}
+#kek {
+    background-color: blue;
+    width: 50%;
+}
+.felso_doboz {
+    background-color: lightgray;
+    width: 50%;
+}
+#magenta {
+    background-color: magenta;
+    width: 75vw;
+}
+#zold {
+    background-color: green;
+    height: 100px;
+}
+#lila {
+    background-color: purple;
+    height: 10vh;
+}
+.felso_doboz~div{
+    height: 80px;
+    width: 70%;
+}
+#szegely {
+    background-color: lightcoral;
+    border: 2px solid blue;
+}
+#vegyes {
+    background-color: aqua;
+    border-right: 1px dashed red;
+    border-bottom: 2px dotted green;
+    margin-bottom: 50px;
+}
+#kulso_margo{
+    background-color: palevioletred;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+#kulso_div {
+    background-color: red;
+}
+#belso_div {
+    background-color: lightblue;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+#kozepre {
+    background-color: yellow;
+    margin:auto
+}
+#belso_margo {
+    background-color: lightgreen;
+    padding: 20px;
+}
+#vegyes_belso {
+    background-color: aqua;
+    height: auto;
+    padding: 20px 40px 80px;
+}
